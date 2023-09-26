@@ -1,0 +1,12 @@
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\04.CopyBinaryFile\bin\Debug\netcoreapp2.1\copyMe.png
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\04.CopyBinaryFile\bin\Debug\netcoreapp2.1\04.CopyBinaryFile.deps.json
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\04.CopyBinaryFile\bin\Debug\netcoreapp2.1\04.CopyBinaryFile.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\04.CopyBinaryFile\bin\Debug\netcoreapp2.1\04.CopyBinaryFile.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\04.CopyBinaryFile\bin\Debug\netcoreapp2.1\04.CopyBinaryFile.dll
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\04.CopyBinaryFile\bin\Debug\netcoreapp2.1\04.CopyBinaryFile.pdb
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\04.CopyBinaryFile\obj\Debug\netcoreapp2.1\04.CopyBinaryFile.csprojAssemblyReference.cache
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\04.CopyBinaryFile\obj\Debug\netcoreapp2.1\04.CopyBinaryFile.csproj.CoreCompileInputs.cache
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\04.CopyBinaryFile\obj\Debug\netcoreapp2.1\04.CopyBinaryFile.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\04.CopyBinaryFile\obj\Debug\netcoreapp2.1\04.CopyBinaryFile.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\04.CopyBinaryFile\obj\Debug\netcoreapp2.1\04.CopyBinaryFile.dll
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\04.CopyBinaryFile\obj\Debug\netcoreapp2.1\04.CopyBinaryFile.pdb

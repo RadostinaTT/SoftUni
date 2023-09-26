@@ -1,0 +1,30 @@
+using System;
+using System.IO;
+
+namespace _05.DirectoryTraversal
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            var fileLenght = new FileInfo(@"../../../SliceMe.txt").Length;
+            var partsize = (int)Math.Ceiling(fileLenght / 4.0);
+            var counterFiles = 1;
+            using (var reader = new StreamReader(@"../../../SliceMe.txt"))
+            {
+                while (!reader.EndOfStream)
+                {
+                    var buffer = new char[partsize];
+                    reader.Read(buffer, 0, buffer.Length);
+
+                    using (var writer = new StreamWriter($"./sliced-{counterFiles}.txt"))
+                    {
+                        writer.Write(buffer);
+                    }
+                    counterFiles++;
+                }
+                
+            }
+        }
+    }
+}

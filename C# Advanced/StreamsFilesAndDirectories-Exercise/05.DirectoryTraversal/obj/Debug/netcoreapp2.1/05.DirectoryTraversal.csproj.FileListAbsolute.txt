@@ -1,0 +1,11 @@
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\05.DirectoryTraversal\bin\Debug\netcoreapp2.1\05.DirectoryTraversal.deps.json
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\05.DirectoryTraversal\bin\Debug\netcoreapp2.1\05.DirectoryTraversal.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\05.DirectoryTraversal\bin\Debug\netcoreapp2.1\05.DirectoryTraversal.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\05.DirectoryTraversal\bin\Debug\netcoreapp2.1\05.DirectoryTraversal.dll
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\05.DirectoryTraversal\bin\Debug\netcoreapp2.1\05.DirectoryTraversal.pdb
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\05.DirectoryTraversal\obj\Debug\netcoreapp2.1\05.DirectoryTraversal.csprojAssemblyReference.cache
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\05.DirectoryTraversal\obj\Debug\netcoreapp2.1\05.DirectoryTraversal.csproj.CoreCompileInputs.cache
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\05.DirectoryTraversal\obj\Debug\netcoreapp2.1\05.DirectoryTraversal.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\05.DirectoryTraversal\obj\Debug\netcoreapp2.1\05.DirectoryTraversal.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\05.DirectoryTraversal\obj\Debug\netcoreapp2.1\05.DirectoryTraversal.dll
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\05.DirectoryTraversal\obj\Debug\netcoreapp2.1\05.DirectoryTraversal.pdb

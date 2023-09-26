@@ -1,0 +1,11 @@
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\06.ZipAndExtract\bin\Debug\netcoreapp2.1\06.ZipAndExtract.deps.json
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\06.ZipAndExtract\bin\Debug\netcoreapp2.1\06.ZipAndExtract.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\06.ZipAndExtract\bin\Debug\netcoreapp2.1\06.ZipAndExtract.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\06.ZipAndExtract\bin\Debug\netcoreapp2.1\06.ZipAndExtract.dll
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\06.ZipAndExtract\bin\Debug\netcoreapp2.1\06.ZipAndExtract.pdb
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\06.ZipAndExtract\obj\Debug\netcoreapp2.1\06.ZipAndExtract.csprojAssemblyReference.cache
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\06.ZipAndExtract\obj\Debug\netcoreapp2.1\06.ZipAndExtract.csproj.CoreCompileInputs.cache
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\06.ZipAndExtract\obj\Debug\netcoreapp2.1\06.ZipAndExtract.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\06.ZipAndExtract\obj\Debug\netcoreapp2.1\06.ZipAndExtract.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\06.ZipAndExtract\obj\Debug\netcoreapp2.1\06.ZipAndExtract.dll
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\06.ZipAndExtract\obj\Debug\netcoreapp2.1\06.ZipAndExtract.pdb

@@ -1,0 +1,13 @@
+.txt
+--sliced-1.txt - 795.794kb
+--sliced-2.txt - 795.794kb
+--sliced-3.txt - 795.794kb
+--sliced-4.txt - 795.794kb
+.json
+--05.DirectoryTraversal.runtimeconfig.json - 0.154kb
+--05.DirectoryTraversal.runtimeconfig.dev.json - 0.236kb
+--05.DirectoryTraversal.deps.json - 0.495kb
+.dll
+--05.DirectoryTraversal.dll - 7.168kb
+.pdb
+--05.DirectoryTraversal.pdb - 1.264kb
