@@ -1,0 +1,11 @@
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\Bombs\obj\Debug\netcoreapp2.1\Bombs.csprojAssemblyReference.cache
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\Bombs\obj\Debug\netcoreapp2.1\Bombs.csproj.CoreCompileInputs.cache
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\Bombs\obj\Debug\netcoreapp2.1\Bombs.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\Bombs\obj\Debug\netcoreapp2.1\Bombs.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\Bombs\bin\Debug\netcoreapp2.1\Bombs.deps.json
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\Bombs\bin\Debug\netcoreapp2.1\Bombs.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\Bombs\bin\Debug\netcoreapp2.1\Bombs.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\Bombs\bin\Debug\netcoreapp2.1\Bombs.dll
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\Bombs\bin\Debug\netcoreapp2.1\Bombs.pdb
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\Bombs\obj\Debug\netcoreapp2.1\Bombs.dll
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\Bombs\obj\Debug\netcoreapp2.1\Bombs.pdb

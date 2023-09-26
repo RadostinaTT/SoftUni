@@ -1,0 +1,11 @@
+D:\SoftUni\VS2019_Repos\IteratorsAndComparators-Exercise\ListyIterator_1\obj\Debug\netcoreapp2.1\ListyIterator_1.csprojAssemblyReference.cache
+D:\SoftUni\VS2019_Repos\IteratorsAndComparators-Exercise\ListyIterator_1\obj\Debug\netcoreapp2.1\ListyIterator_1.csproj.CoreCompileInputs.cache
+D:\SoftUni\VS2019_Repos\IteratorsAndComparators-Exercise\ListyIterator_1\obj\Debug\netcoreapp2.1\ListyIterator_1.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\IteratorsAndComparators-Exercise\ListyIterator_1\obj\Debug\netcoreapp2.1\ListyIterator_1.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\IteratorsAndComparators-Exercise\ListyIterator_1\bin\Debug\netcoreapp2.1\ListyIterator_1.deps.json
+D:\SoftUni\VS2019_Repos\IteratorsAndComparators-Exercise\ListyIterator_1\bin\Debug\netcoreapp2.1\ListyIterator_1.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\IteratorsAndComparators-Exercise\ListyIterator_1\bin\Debug\netcoreapp2.1\ListyIterator_1.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\IteratorsAndComparators-Exercise\ListyIterator_1\bin\Debug\netcoreapp2.1\ListyIterator_1.dll
+D:\SoftUni\VS2019_Repos\IteratorsAndComparators-Exercise\ListyIterator_1\bin\Debug\netcoreapp2.1\ListyIterator_1.pdb
+D:\SoftUni\VS2019_Repos\IteratorsAndComparators-Exercise\ListyIterator_1\obj\Debug\netcoreapp2.1\ListyIterator_1.dll
+D:\SoftUni\VS2019_Repos\IteratorsAndComparators-Exercise\ListyIterator_1\obj\Debug\netcoreapp2.1\ListyIterator_1.pdb
