@@ -1,0 +1,11 @@
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\SquaresInMatrix\bin\Debug\netcoreapp2.1\SquaresInMatrix.deps.json
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\SquaresInMatrix\bin\Debug\netcoreapp2.1\SquaresInMatrix.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\SquaresInMatrix\bin\Debug\netcoreapp2.1\SquaresInMatrix.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\SquaresInMatrix\bin\Debug\netcoreapp2.1\SquaresInMatrix.dll
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\SquaresInMatrix\bin\Debug\netcoreapp2.1\SquaresInMatrix.pdb
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\SquaresInMatrix\obj\Debug\netcoreapp2.1\SquaresInMatrix.csprojAssemblyReference.cache
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\SquaresInMatrix\obj\Debug\netcoreapp2.1\SquaresInMatrix.csproj.CoreCompileInputs.cache
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\SquaresInMatrix\obj\Debug\netcoreapp2.1\SquaresInMatrix.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\SquaresInMatrix\obj\Debug\netcoreapp2.1\SquaresInMatrix.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\SquaresInMatrix\obj\Debug\netcoreapp2.1\SquaresInMatrix.dll
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\SquaresInMatrix\obj\Debug\netcoreapp2.1\SquaresInMatrix.pdb

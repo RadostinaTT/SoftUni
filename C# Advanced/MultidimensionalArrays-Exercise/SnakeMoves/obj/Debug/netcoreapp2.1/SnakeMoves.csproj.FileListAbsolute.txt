@@ -1,0 +1,11 @@
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\SnakeMoves\obj\Debug\netcoreapp2.1\SnakeMoves.csprojAssemblyReference.cache
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\SnakeMoves\obj\Debug\netcoreapp2.1\SnakeMoves.csproj.CoreCompileInputs.cache
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\SnakeMoves\obj\Debug\netcoreapp2.1\SnakeMoves.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\SnakeMoves\obj\Debug\netcoreapp2.1\SnakeMoves.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\SnakeMoves\bin\Debug\netcoreapp2.1\SnakeMoves.deps.json
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\SnakeMoves\bin\Debug\netcoreapp2.1\SnakeMoves.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\SnakeMoves\bin\Debug\netcoreapp2.1\SnakeMoves.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\SnakeMoves\bin\Debug\netcoreapp2.1\SnakeMoves.dll
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\SnakeMoves\bin\Debug\netcoreapp2.1\SnakeMoves.pdb
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\SnakeMoves\obj\Debug\netcoreapp2.1\SnakeMoves.dll
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\SnakeMoves\obj\Debug\netcoreapp2.1\SnakeMoves.pdb
