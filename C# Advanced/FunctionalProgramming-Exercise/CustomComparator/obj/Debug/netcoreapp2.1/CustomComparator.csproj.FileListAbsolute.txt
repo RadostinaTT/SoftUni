@@ -1,0 +1,11 @@
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\CustomComparator\bin\Debug\netcoreapp2.1\CustomComparator.deps.json
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\CustomComparator\bin\Debug\netcoreapp2.1\CustomComparator.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\CustomComparator\bin\Debug\netcoreapp2.1\CustomComparator.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\CustomComparator\bin\Debug\netcoreapp2.1\CustomComparator.dll
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\CustomComparator\bin\Debug\netcoreapp2.1\CustomComparator.pdb
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\CustomComparator\obj\Debug\netcoreapp2.1\CustomComparator.csprojAssemblyReference.cache
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\CustomComparator\obj\Debug\netcoreapp2.1\CustomComparator.csproj.CoreCompileInputs.cache
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\CustomComparator\obj\Debug\netcoreapp2.1\CustomComparator.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\CustomComparator\obj\Debug\netcoreapp2.1\CustomComparator.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\CustomComparator\obj\Debug\netcoreapp2.1\CustomComparator.dll
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\CustomComparator\obj\Debug\netcoreapp2.1\CustomComparator.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\ActionPrint\bin\Debug\netcoreapp2.1\ActionPrint.deps.json
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\ActionPrint\bin\Debug\netcoreapp2.1\ActionPrint.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\ActionPrint\bin\Debug\netcoreapp2.1\ActionPrint.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\ActionPrint\bin\Debug\netcoreapp2.1\ActionPrint.dll
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\ActionPrint\bin\Debug\netcoreapp2.1\ActionPrint.pdb
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\ActionPrint\obj\Debug\netcoreapp2.1\ActionPrint.csprojAssemblyReference.cache
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\ActionPrint\obj\Debug\netcoreapp2.1\ActionPrint.csproj.CoreCompileInputs.cache
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\ActionPrint\obj\Debug\netcoreapp2.1\ActionPrint.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\ActionPrint\obj\Debug\netcoreapp2.1\ActionPrint.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\ActionPrint\obj\Debug\netcoreapp2.1\ActionPrint.dll
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\ActionPrint\obj\Debug\netcoreapp2.1\ActionPrint.pdb

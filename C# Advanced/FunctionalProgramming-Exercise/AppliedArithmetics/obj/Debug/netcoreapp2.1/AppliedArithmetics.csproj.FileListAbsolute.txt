@@ -1,0 +1,11 @@
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\AppliedArithmetics\bin\Debug\netcoreapp2.1\AppliedArithmetics.deps.json
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\AppliedArithmetics\bin\Debug\netcoreapp2.1\AppliedArithmetics.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\AppliedArithmetics\bin\Debug\netcoreapp2.1\AppliedArithmetics.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\AppliedArithmetics\bin\Debug\netcoreapp2.1\AppliedArithmetics.dll
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\AppliedArithmetics\bin\Debug\netcoreapp2.1\AppliedArithmetics.pdb
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\AppliedArithmetics\obj\Debug\netcoreapp2.1\AppliedArithmetics.csprojAssemblyReference.cache
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\AppliedArithmetics\obj\Debug\netcoreapp2.1\AppliedArithmetics.csproj.CoreCompileInputs.cache
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\AppliedArithmetics\obj\Debug\netcoreapp2.1\AppliedArithmetics.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\AppliedArithmetics\obj\Debug\netcoreapp2.1\AppliedArithmetics.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\AppliedArithmetics\obj\Debug\netcoreapp2.1\AppliedArithmetics.dll
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\AppliedArithmetics\obj\Debug\netcoreapp2.1\AppliedArithmetics.pdb

@@ -1,0 +1,10 @@
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\CustomMinFunction\bin\Debug\netcoreapp2.1\CustomMinFunction.deps.json
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\CustomMinFunction\bin\Debug\netcoreapp2.1\CustomMinFunction.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\CustomMinFunction\bin\Debug\netcoreapp2.1\CustomMinFunction.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\CustomMinFunction\bin\Debug\netcoreapp2.1\CustomMinFunction.dll
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\CustomMinFunction\bin\Debug\netcoreapp2.1\CustomMinFunction.pdb
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\CustomMinFunction\obj\Debug\netcoreapp2.1\CustomMinFunction.csproj.CoreCompileInputs.cache
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\CustomMinFunction\obj\Debug\netcoreapp2.1\CustomMinFunction.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\CustomMinFunction\obj\Debug\netcoreapp2.1\CustomMinFunction.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\CustomMinFunction\obj\Debug\netcoreapp2.1\CustomMinFunction.dll
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\CustomMinFunction\obj\Debug\netcoreapp2.1\CustomMinFunction.pdb
