@@ -1,0 +1,11 @@
+D:\SoftUni\VS2019_Repos\StackAndQueue-Exercise\KeyRevolver\bin\Debug\netcoreapp2.1\KeyRevolver.deps.json
+D:\SoftUni\VS2019_Repos\StackAndQueue-Exercise\KeyRevolver\bin\Debug\netcoreapp2.1\KeyRevolver.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\StackAndQueue-Exercise\KeyRevolver\bin\Debug\netcoreapp2.1\KeyRevolver.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\StackAndQueue-Exercise\KeyRevolver\bin\Debug\netcoreapp2.1\KeyRevolver.dll
+D:\SoftUni\VS2019_Repos\StackAndQueue-Exercise\KeyRevolver\bin\Debug\netcoreapp2.1\KeyRevolver.pdb
+D:\SoftUni\VS2019_Repos\StackAndQueue-Exercise\KeyRevolver\obj\Debug\netcoreapp2.1\KeyRevolver.csprojAssemblyReference.cache
+D:\SoftUni\VS2019_Repos\StackAndQueue-Exercise\KeyRevolver\obj\Debug\netcoreapp2.1\KeyRevolver.csproj.CoreCompileInputs.cache
+D:\SoftUni\VS2019_Repos\StackAndQueue-Exercise\KeyRevolver\obj\Debug\netcoreapp2.1\KeyRevolver.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\StackAndQueue-Exercise\KeyRevolver\obj\Debug\netcoreapp2.1\KeyRevolver.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\StackAndQueue-Exercise\KeyRevolver\obj\Debug\netcoreapp2.1\KeyRevolver.dll
+D:\SoftUni\VS2019_Repos\StackAndQueue-Exercise\KeyRevolver\obj\Debug\netcoreapp2.1\KeyRevolver.pdb

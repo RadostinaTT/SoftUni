@@ -1,0 +1,11 @@
+D:\SoftUni\VS2019_Repos\StackAndQueue-Exercise\CupAndBottles\bin\Debug\netcoreapp2.1\CupAndBottles.deps.json
+D:\SoftUni\VS2019_Repos\StackAndQueue-Exercise\CupAndBottles\bin\Debug\netcoreapp2.1\CupAndBottles.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\StackAndQueue-Exercise\CupAndBottles\bin\Debug\netcoreapp2.1\CupAndBottles.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\StackAndQueue-Exercise\CupAndBottles\bin\Debug\netcoreapp2.1\CupAndBottles.dll
+D:\SoftUni\VS2019_Repos\StackAndQueue-Exercise\CupAndBottles\bin\Debug\netcoreapp2.1\CupAndBottles.pdb
+D:\SoftUni\VS2019_Repos\StackAndQueue-Exercise\CupAndBottles\obj\Debug\netcoreapp2.1\CupAndBottles.csprojAssemblyReference.cache
+D:\SoftUni\VS2019_Repos\StackAndQueue-Exercise\CupAndBottles\obj\Debug\netcoreapp2.1\CupAndBottles.csproj.CoreCompileInputs.cache
+D:\SoftUni\VS2019_Repos\StackAndQueue-Exercise\CupAndBottles\obj\Debug\netcoreapp2.1\CupAndBottles.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\StackAndQueue-Exercise\CupAndBottles\obj\Debug\netcoreapp2.1\CupAndBottles.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\StackAndQueue-Exercise\CupAndBottles\obj\Debug\netcoreapp2.1\CupAndBottles.dll
+D:\SoftUni\VS2019_Repos\StackAndQueue-Exercise\CupAndBottles\obj\Debug\netcoreapp2.1\CupAndBottles.pdb
