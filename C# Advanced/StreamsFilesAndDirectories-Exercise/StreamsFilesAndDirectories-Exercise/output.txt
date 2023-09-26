@@ -1,0 +1,5 @@
+fault@ his wasn't it but him@ judge to quick was @I
+safer@ is It here@ hide @Quick@
+
+var sb = new StringBuilder();
+File.WriteAllText(@"../../../output.txt", sb.ToString().TrimEnd());

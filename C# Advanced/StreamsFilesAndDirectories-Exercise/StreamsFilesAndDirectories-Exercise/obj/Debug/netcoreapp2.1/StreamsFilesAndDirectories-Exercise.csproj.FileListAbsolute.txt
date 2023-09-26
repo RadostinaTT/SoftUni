@@ -1,0 +1,12 @@
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\StreamsFilesAndDirectories-Exercise\bin\Debug\netcoreapp2.1\text.txt
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\StreamsFilesAndDirectories-Exercise\bin\Debug\netcoreapp2.1\StreamsFilesAndDirectories-Exercise.deps.json
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\StreamsFilesAndDirectories-Exercise\bin\Debug\netcoreapp2.1\StreamsFilesAndDirectories-Exercise.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\StreamsFilesAndDirectories-Exercise\bin\Debug\netcoreapp2.1\StreamsFilesAndDirectories-Exercise.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\StreamsFilesAndDirectories-Exercise\bin\Debug\netcoreapp2.1\StreamsFilesAndDirectories-Exercise.dll
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\StreamsFilesAndDirectories-Exercise\bin\Debug\netcoreapp2.1\StreamsFilesAndDirectories-Exercise.pdb
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\StreamsFilesAndDirectories-Exercise\obj\Debug\netcoreapp2.1\StreamsFilesAndDirectories-Exercise.csprojAssemblyReference.cache
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\StreamsFilesAndDirectories-Exercise\obj\Debug\netcoreapp2.1\StreamsFilesAndDirectories-Exercise.csproj.CoreCompileInputs.cache
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\StreamsFilesAndDirectories-Exercise\obj\Debug\netcoreapp2.1\StreamsFilesAndDirectories-Exercise.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\StreamsFilesAndDirectories-Exercise\obj\Debug\netcoreapp2.1\StreamsFilesAndDirectories-Exercise.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\StreamsFilesAndDirectories-Exercise\obj\Debug\netcoreapp2.1\StreamsFilesAndDirectories-Exercise.dll
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\StreamsFilesAndDirectories-Exercise\obj\Debug\netcoreapp2.1\StreamsFilesAndDirectories-Exercise.pdb
