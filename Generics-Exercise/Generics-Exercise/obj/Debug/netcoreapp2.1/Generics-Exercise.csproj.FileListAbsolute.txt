@@ -1,0 +1,11 @@
+D:\SoftUni\VS2019_Repos\Generics-Exercise\Generics-Exercise\bin\Debug\netcoreapp2.1\Generics-Exercise.deps.json
+D:\SoftUni\VS2019_Repos\Generics-Exercise\Generics-Exercise\bin\Debug\netcoreapp2.1\Generics-Exercise.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\Generics-Exercise\Generics-Exercise\bin\Debug\netcoreapp2.1\Generics-Exercise.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\Generics-Exercise\Generics-Exercise\bin\Debug\netcoreapp2.1\Generics-Exercise.dll
+D:\SoftUni\VS2019_Repos\Generics-Exercise\Generics-Exercise\bin\Debug\netcoreapp2.1\Generics-Exercise.pdb
+D:\SoftUni\VS2019_Repos\Generics-Exercise\Generics-Exercise\obj\Debug\netcoreapp2.1\Generics-Exercise.csprojAssemblyReference.cache
+D:\SoftUni\VS2019_Repos\Generics-Exercise\Generics-Exercise\obj\Debug\netcoreapp2.1\Generics-Exercise.csproj.CoreCompileInputs.cache
+D:\SoftUni\VS2019_Repos\Generics-Exercise\Generics-Exercise\obj\Debug\netcoreapp2.1\Generics-Exercise.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\Generics-Exercise\Generics-Exercise\obj\Debug\netcoreapp2.1\Generics-Exercise.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\Generics-Exercise\Generics-Exercise\obj\Debug\netcoreapp2.1\Generics-Exercise.dll
+D:\SoftUni\VS2019_Repos\Generics-Exercise\Generics-Exercise\obj\Debug\netcoreapp2.1\Generics-Exercise.pdb

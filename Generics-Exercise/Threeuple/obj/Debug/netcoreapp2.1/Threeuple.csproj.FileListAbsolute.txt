@@ -1,0 +1,10 @@
+D:\SoftUni\VS2019_Repos\Generics-Exercise\Threeuple\bin\Debug\netcoreapp2.1\Threeuple.deps.json
+D:\SoftUni\VS2019_Repos\Generics-Exercise\Threeuple\bin\Debug\netcoreapp2.1\Threeuple.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\Generics-Exercise\Threeuple\bin\Debug\netcoreapp2.1\Threeuple.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\Generics-Exercise\Threeuple\bin\Debug\netcoreapp2.1\Threeuple.dll
+D:\SoftUni\VS2019_Repos\Generics-Exercise\Threeuple\bin\Debug\netcoreapp2.1\Threeuple.pdb
+D:\SoftUni\VS2019_Repos\Generics-Exercise\Threeuple\obj\Debug\netcoreapp2.1\Threeuple.csproj.CoreCompileInputs.cache
+D:\SoftUni\VS2019_Repos\Generics-Exercise\Threeuple\obj\Debug\netcoreapp2.1\Threeuple.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\Generics-Exercise\Threeuple\obj\Debug\netcoreapp2.1\Threeuple.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\Generics-Exercise\Threeuple\obj\Debug\netcoreapp2.1\Threeuple.dll
+D:\SoftUni\VS2019_Repos\Generics-Exercise\Threeuple\obj\Debug\netcoreapp2.1\Threeuple.pdb
