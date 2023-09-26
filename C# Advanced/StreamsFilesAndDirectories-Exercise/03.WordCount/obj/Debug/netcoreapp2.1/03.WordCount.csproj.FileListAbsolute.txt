@@ -1,0 +1,13 @@
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\03.WordCount\bin\Debug\netcoreapp2.1\03.WordCount.deps.json
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\03.WordCount\bin\Debug\netcoreapp2.1\03.WordCount.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\03.WordCount\bin\Debug\netcoreapp2.1\03.WordCount.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\03.WordCount\bin\Debug\netcoreapp2.1\03.WordCount.dll
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\03.WordCount\bin\Debug\netcoreapp2.1\03.WordCount.pdb
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\03.WordCount\obj\Debug\netcoreapp2.1\03.WordCount.csprojAssemblyReference.cache
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\03.WordCount\obj\Debug\netcoreapp2.1\03.WordCount.csproj.CoreCompileInputs.cache
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\03.WordCount\obj\Debug\netcoreapp2.1\03.WordCount.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\03.WordCount\obj\Debug\netcoreapp2.1\03.WordCount.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\03.WordCount\obj\Debug\netcoreapp2.1\03.WordCount.dll
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\03.WordCount\obj\Debug\netcoreapp2.1\03.WordCount.pdb
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\03.WordCount\bin\Debug\netcoreapp2.1\text.txt
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\03.WordCount\bin\Debug\netcoreapp2.1\words.txt

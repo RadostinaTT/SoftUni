@@ -1,0 +1,11 @@
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\01.EvenLines\bin\Debug\netcoreapp2.1\01.EvenLines.deps.json
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\01.EvenLines\bin\Debug\netcoreapp2.1\01.EvenLines.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\01.EvenLines\bin\Debug\netcoreapp2.1\01.EvenLines.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\01.EvenLines\bin\Debug\netcoreapp2.1\01.EvenLines.dll
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\01.EvenLines\bin\Debug\netcoreapp2.1\01.EvenLines.pdb
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\01.EvenLines\obj\Debug\netcoreapp2.1\01.EvenLines.csprojAssemblyReference.cache
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\01.EvenLines\obj\Debug\netcoreapp2.1\01.EvenLines.csproj.CoreCompileInputs.cache
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\01.EvenLines\obj\Debug\netcoreapp2.1\01.EvenLines.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\01.EvenLines\obj\Debug\netcoreapp2.1\01.EvenLines.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\01.EvenLines\obj\Debug\netcoreapp2.1\01.EvenLines.dll
+D:\SoftUni\VS2019_Repos\StreamsFilesAndDirectories-Exercise\01.EvenLines\obj\Debug\netcoreapp2.1\01.EvenLines.pdb
