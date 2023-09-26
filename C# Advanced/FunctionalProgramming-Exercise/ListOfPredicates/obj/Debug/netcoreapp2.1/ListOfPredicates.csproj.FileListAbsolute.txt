@@ -1,0 +1,11 @@
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\ListOfPredicates\bin\Debug\netcoreapp2.1\ListOfPredicates.deps.json
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\ListOfPredicates\bin\Debug\netcoreapp2.1\ListOfPredicates.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\ListOfPredicates\bin\Debug\netcoreapp2.1\ListOfPredicates.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\ListOfPredicates\bin\Debug\netcoreapp2.1\ListOfPredicates.dll
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\ListOfPredicates\bin\Debug\netcoreapp2.1\ListOfPredicates.pdb
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\ListOfPredicates\obj\Debug\netcoreapp2.1\ListOfPredicates.csproj.CoreCompileInputs.cache
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\ListOfPredicates\obj\Debug\netcoreapp2.1\ListOfPredicates.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\ListOfPredicates\obj\Debug\netcoreapp2.1\ListOfPredicates.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\ListOfPredicates\obj\Debug\netcoreapp2.1\ListOfPredicates.dll
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\ListOfPredicates\obj\Debug\netcoreapp2.1\ListOfPredicates.pdb
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\ListOfPredicates\obj\Debug\netcoreapp2.1\ListOfPredicates.csprojAssemblyReference.cache

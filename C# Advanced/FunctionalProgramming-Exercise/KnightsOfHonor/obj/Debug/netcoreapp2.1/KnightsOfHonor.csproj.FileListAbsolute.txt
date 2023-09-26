@@ -1,0 +1,10 @@
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\KnightsOfHonor\bin\Debug\netcoreapp2.1\KnightsOfHonor.deps.json
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\KnightsOfHonor\bin\Debug\netcoreapp2.1\KnightsOfHonor.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\KnightsOfHonor\bin\Debug\netcoreapp2.1\KnightsOfHonor.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\KnightsOfHonor\bin\Debug\netcoreapp2.1\KnightsOfHonor.dll
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\KnightsOfHonor\bin\Debug\netcoreapp2.1\KnightsOfHonor.pdb
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\KnightsOfHonor\obj\Debug\netcoreapp2.1\KnightsOfHonor.csproj.CoreCompileInputs.cache
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\KnightsOfHonor\obj\Debug\netcoreapp2.1\KnightsOfHonor.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\KnightsOfHonor\obj\Debug\netcoreapp2.1\KnightsOfHonor.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\KnightsOfHonor\obj\Debug\netcoreapp2.1\KnightsOfHonor.dll
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\KnightsOfHonor\obj\Debug\netcoreapp2.1\KnightsOfHonor.pdb
