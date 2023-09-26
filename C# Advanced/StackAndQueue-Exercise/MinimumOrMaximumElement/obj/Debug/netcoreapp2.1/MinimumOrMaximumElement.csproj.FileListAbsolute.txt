@@ -1,0 +1,11 @@
+C:\Users\PC008\source\repos\StackAndQueue-Exercise\MinimumOrMaximumElement\bin\Debug\netcoreapp2.1\MinimumOrMaximumElement.deps.json
+C:\Users\PC008\source\repos\StackAndQueue-Exercise\MinimumOrMaximumElement\bin\Debug\netcoreapp2.1\MinimumOrMaximumElement.runtimeconfig.json
+C:\Users\PC008\source\repos\StackAndQueue-Exercise\MinimumOrMaximumElement\bin\Debug\netcoreapp2.1\MinimumOrMaximumElement.runtimeconfig.dev.json
+C:\Users\PC008\source\repos\StackAndQueue-Exercise\MinimumOrMaximumElement\bin\Debug\netcoreapp2.1\MinimumOrMaximumElement.dll
+C:\Users\PC008\source\repos\StackAndQueue-Exercise\MinimumOrMaximumElement\bin\Debug\netcoreapp2.1\MinimumOrMaximumElement.pdb
+C:\Users\PC008\source\repos\StackAndQueue-Exercise\MinimumOrMaximumElement\obj\Debug\netcoreapp2.1\MinimumOrMaximumElement.csproj.CoreCompileInputs.cache
+C:\Users\PC008\source\repos\StackAndQueue-Exercise\MinimumOrMaximumElement\obj\Debug\netcoreapp2.1\MinimumOrMaximumElement.AssemblyInfoInputs.cache
+C:\Users\PC008\source\repos\StackAndQueue-Exercise\MinimumOrMaximumElement\obj\Debug\netcoreapp2.1\MinimumOrMaximumElement.AssemblyInfo.cs
+C:\Users\PC008\source\repos\StackAndQueue-Exercise\MinimumOrMaximumElement\obj\Debug\netcoreapp2.1\MinimumOrMaximumElement.dll
+C:\Users\PC008\source\repos\StackAndQueue-Exercise\MinimumOrMaximumElement\obj\Debug\netcoreapp2.1\MinimumOrMaximumElement.pdb
+C:\Users\PC008\source\repos\StackAndQueue-Exercise\MinimumOrMaximumElement\obj\Debug\netcoreapp2.1\MinimumOrMaximumElement.csprojAssemblyReference.cache
