@@ -1,0 +1,10 @@
+C:\DISK D\SOFTUNI\DB\EntityFramework\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.deps.json
+C:\DISK D\SOFTUNI\DB\EntityFramework\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.json
+C:\DISK D\SOFTUNI\DB\EntityFramework\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.dev.json
+C:\DISK D\SOFTUNI\DB\EntityFramework\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.dll
+C:\DISK D\SOFTUNI\DB\EntityFramework\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.pdb
+C:\DISK D\SOFTUNI\DB\EntityFramework\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csprojAssemblyReference.cache
+C:\DISK D\SOFTUNI\DB\EntityFramework\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfoInputs.cache
+C:\DISK D\SOFTUNI\DB\EntityFramework\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfo.cs
+C:\DISK D\SOFTUNI\DB\EntityFramework\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.dll
+C:\DISK D\SOFTUNI\DB\EntityFramework\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb
