@@ -1,0 +1,10 @@
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\TriFunction\obj\Debug\netcoreapp2.1\TriFunction.csproj.CoreCompileInputs.cache
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\TriFunction\obj\Debug\netcoreapp2.1\TriFunction.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\TriFunction\obj\Debug\netcoreapp2.1\TriFunction.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\TriFunction\bin\Debug\netcoreapp2.1\TriFunction.deps.json
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\TriFunction\bin\Debug\netcoreapp2.1\TriFunction.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\TriFunction\bin\Debug\netcoreapp2.1\TriFunction.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\TriFunction\bin\Debug\netcoreapp2.1\TriFunction.dll
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\TriFunction\bin\Debug\netcoreapp2.1\TriFunction.pdb
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\TriFunction\obj\Debug\netcoreapp2.1\TriFunction.dll
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\TriFunction\obj\Debug\netcoreapp2.1\TriFunction.pdb

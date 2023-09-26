@@ -1,0 +1,11 @@
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\PredicateForNames\bin\Debug\netcoreapp2.1\PredicateForNames.deps.json
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\PredicateForNames\bin\Debug\netcoreapp2.1\PredicateForNames.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\PredicateForNames\bin\Debug\netcoreapp2.1\PredicateForNames.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\PredicateForNames\bin\Debug\netcoreapp2.1\PredicateForNames.dll
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\PredicateForNames\bin\Debug\netcoreapp2.1\PredicateForNames.pdb
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\PredicateForNames\obj\Debug\netcoreapp2.1\PredicateForNames.csprojAssemblyReference.cache
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\PredicateForNames\obj\Debug\netcoreapp2.1\PredicateForNames.csproj.CoreCompileInputs.cache
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\PredicateForNames\obj\Debug\netcoreapp2.1\PredicateForNames.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\PredicateForNames\obj\Debug\netcoreapp2.1\PredicateForNames.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\PredicateForNames\obj\Debug\netcoreapp2.1\PredicateForNames.dll
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\PredicateForNames\obj\Debug\netcoreapp2.1\PredicateForNames.pdb

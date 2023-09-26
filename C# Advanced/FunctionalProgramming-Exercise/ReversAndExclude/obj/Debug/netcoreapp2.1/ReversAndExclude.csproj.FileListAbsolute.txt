@@ -1,0 +1,10 @@
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\ReversAndExclude\bin\Debug\netcoreapp2.1\ReversAndExclude.deps.json
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\ReversAndExclude\bin\Debug\netcoreapp2.1\ReversAndExclude.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\ReversAndExclude\bin\Debug\netcoreapp2.1\ReversAndExclude.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\ReversAndExclude\bin\Debug\netcoreapp2.1\ReversAndExclude.dll
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\ReversAndExclude\bin\Debug\netcoreapp2.1\ReversAndExclude.pdb
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\ReversAndExclude\obj\Debug\netcoreapp2.1\ReversAndExclude.csproj.CoreCompileInputs.cache
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\ReversAndExclude\obj\Debug\netcoreapp2.1\ReversAndExclude.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\ReversAndExclude\obj\Debug\netcoreapp2.1\ReversAndExclude.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\ReversAndExclude\obj\Debug\netcoreapp2.1\ReversAndExclude.dll
+D:\SoftUni\VS2019_Repos\FunctionalProgramming-Exercise\ReversAndExclude\obj\Debug\netcoreapp2.1\ReversAndExclude.pdb
