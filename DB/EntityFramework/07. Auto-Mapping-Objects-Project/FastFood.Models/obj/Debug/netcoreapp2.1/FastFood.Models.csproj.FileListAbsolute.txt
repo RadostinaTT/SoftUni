@@ -1,0 +1,8 @@
+C:\DISK D\SOFTUNI\DB\EntityFramework\07. Auto-Mapping-Objects-Project\FastFood.Models\bin\Debug\netcoreapp2.1\FastFood.Models.deps.json
+C:\DISK D\SOFTUNI\DB\EntityFramework\07. Auto-Mapping-Objects-Project\FastFood.Models\bin\Debug\netcoreapp2.1\FastFood.Models.dll
+C:\DISK D\SOFTUNI\DB\EntityFramework\07. Auto-Mapping-Objects-Project\FastFood.Models\bin\Debug\netcoreapp2.1\FastFood.Models.pdb
+C:\DISK D\SOFTUNI\DB\EntityFramework\07. Auto-Mapping-Objects-Project\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.csprojAssemblyReference.cache
+C:\DISK D\SOFTUNI\DB\EntityFramework\07. Auto-Mapping-Objects-Project\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.AssemblyInfoInputs.cache
+C:\DISK D\SOFTUNI\DB\EntityFramework\07. Auto-Mapping-Objects-Project\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.AssemblyInfo.cs
+C:\DISK D\SOFTUNI\DB\EntityFramework\07. Auto-Mapping-Objects-Project\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.dll
+C:\DISK D\SOFTUNI\DB\EntityFramework\07. Auto-Mapping-Objects-Project\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.pdb
