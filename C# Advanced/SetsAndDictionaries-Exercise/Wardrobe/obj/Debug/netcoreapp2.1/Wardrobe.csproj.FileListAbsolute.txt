@@ -1,0 +1,11 @@
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.deps.json
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.dll
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.pdb
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.csprojAssemblyReference.cache
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.csproj.CoreCompileInputs.cache
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.dll
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.pdb

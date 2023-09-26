@@ -1,0 +1,11 @@
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\TheV-Logger\bin\Debug\netcoreapp2.1\TheV-Logger.deps.json
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\TheV-Logger\bin\Debug\netcoreapp2.1\TheV-Logger.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\TheV-Logger\bin\Debug\netcoreapp2.1\TheV-Logger.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\TheV-Logger\bin\Debug\netcoreapp2.1\TheV-Logger.dll
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\TheV-Logger\bin\Debug\netcoreapp2.1\TheV-Logger.pdb
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\TheV-Logger\obj\Debug\netcoreapp2.1\TheV-Logger.csprojAssemblyReference.cache
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\TheV-Logger\obj\Debug\netcoreapp2.1\TheV-Logger.csproj.CoreCompileInputs.cache
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\TheV-Logger\obj\Debug\netcoreapp2.1\TheV-Logger.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\TheV-Logger\obj\Debug\netcoreapp2.1\TheV-Logger.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\TheV-Logger\obj\Debug\netcoreapp2.1\TheV-Logger.dll
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\TheV-Logger\obj\Debug\netcoreapp2.1\TheV-Logger.pdb

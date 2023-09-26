@@ -1,0 +1,10 @@
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\UniqueUsernames\bin\Debug\netcoreapp2.1\UniqueUsernames.deps.json
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\UniqueUsernames\bin\Debug\netcoreapp2.1\UniqueUsernames.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\UniqueUsernames\bin\Debug\netcoreapp2.1\UniqueUsernames.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\UniqueUsernames\bin\Debug\netcoreapp2.1\UniqueUsernames.dll
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\UniqueUsernames\bin\Debug\netcoreapp2.1\UniqueUsernames.pdb
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\UniqueUsernames\obj\Debug\netcoreapp2.1\UniqueUsernames.csproj.CoreCompileInputs.cache
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\UniqueUsernames\obj\Debug\netcoreapp2.1\UniqueUsernames.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\UniqueUsernames\obj\Debug\netcoreapp2.1\UniqueUsernames.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\UniqueUsernames\obj\Debug\netcoreapp2.1\UniqueUsernames.dll
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\UniqueUsernames\obj\Debug\netcoreapp2.1\UniqueUsernames.pdb

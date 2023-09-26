@@ -1,0 +1,10 @@
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\SetsOfElements\bin\Debug\netcoreapp2.1\SetsOfElements.deps.json
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\SetsOfElements\bin\Debug\netcoreapp2.1\SetsOfElements.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\SetsOfElements\bin\Debug\netcoreapp2.1\SetsOfElements.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\SetsOfElements\bin\Debug\netcoreapp2.1\SetsOfElements.dll
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\SetsOfElements\bin\Debug\netcoreapp2.1\SetsOfElements.pdb
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\SetsOfElements\obj\Debug\netcoreapp2.1\SetsOfElements.csproj.CoreCompileInputs.cache
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\SetsOfElements\obj\Debug\netcoreapp2.1\SetsOfElements.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\SetsOfElements\obj\Debug\netcoreapp2.1\SetsOfElements.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\SetsOfElements\obj\Debug\netcoreapp2.1\SetsOfElements.dll
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\SetsOfElements\obj\Debug\netcoreapp2.1\SetsOfElements.pdb
