@@ -1,0 +1,11 @@
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\Ranking\bin\Debug\netcoreapp2.1\Ranking.deps.json
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\Ranking\bin\Debug\netcoreapp2.1\Ranking.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\Ranking\bin\Debug\netcoreapp2.1\Ranking.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\Ranking\bin\Debug\netcoreapp2.1\Ranking.dll
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\Ranking\bin\Debug\netcoreapp2.1\Ranking.pdb
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\Ranking\obj\Debug\netcoreapp2.1\Ranking.csprojAssemblyReference.cache
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\Ranking\obj\Debug\netcoreapp2.1\Ranking.csproj.CoreCompileInputs.cache
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\Ranking\obj\Debug\netcoreapp2.1\Ranking.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\Ranking\obj\Debug\netcoreapp2.1\Ranking.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\Ranking\obj\Debug\netcoreapp2.1\Ranking.dll
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\Ranking\obj\Debug\netcoreapp2.1\Ranking.pdb

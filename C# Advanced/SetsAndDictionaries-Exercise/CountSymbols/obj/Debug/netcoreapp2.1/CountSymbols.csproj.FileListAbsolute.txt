@@ -1,0 +1,10 @@
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\CountSymbols\bin\Debug\netcoreapp2.1\CountSymbols.deps.json
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\CountSymbols\bin\Debug\netcoreapp2.1\CountSymbols.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\CountSymbols\bin\Debug\netcoreapp2.1\CountSymbols.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\CountSymbols\bin\Debug\netcoreapp2.1\CountSymbols.dll
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\CountSymbols\bin\Debug\netcoreapp2.1\CountSymbols.pdb
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\CountSymbols\obj\Debug\netcoreapp2.1\CountSymbols.csproj.CoreCompileInputs.cache
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\CountSymbols\obj\Debug\netcoreapp2.1\CountSymbols.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\CountSymbols\obj\Debug\netcoreapp2.1\CountSymbols.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\CountSymbols\obj\Debug\netcoreapp2.1\CountSymbols.dll
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\CountSymbols\obj\Debug\netcoreapp2.1\CountSymbols.pdb

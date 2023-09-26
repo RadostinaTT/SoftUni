@@ -1,0 +1,10 @@
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\PeriodicTable\bin\Debug\netcoreapp2.1\PeriodicTable.deps.json
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\PeriodicTable\bin\Debug\netcoreapp2.1\PeriodicTable.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\PeriodicTable\bin\Debug\netcoreapp2.1\PeriodicTable.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\PeriodicTable\bin\Debug\netcoreapp2.1\PeriodicTable.dll
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\PeriodicTable\bin\Debug\netcoreapp2.1\PeriodicTable.pdb
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\PeriodicTable\obj\Debug\netcoreapp2.1\PeriodicTable.csproj.CoreCompileInputs.cache
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\PeriodicTable\obj\Debug\netcoreapp2.1\PeriodicTable.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\PeriodicTable\obj\Debug\netcoreapp2.1\PeriodicTable.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\PeriodicTable\obj\Debug\netcoreapp2.1\PeriodicTable.dll
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\PeriodicTable\obj\Debug\netcoreapp2.1\PeriodicTable.pdb

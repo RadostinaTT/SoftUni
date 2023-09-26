@@ -1,0 +1,10 @@
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\EvenTimes\bin\Debug\netcoreapp2.1\EvenTimes.deps.json
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\EvenTimes\bin\Debug\netcoreapp2.1\EvenTimes.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\EvenTimes\bin\Debug\netcoreapp2.1\EvenTimes.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\EvenTimes\bin\Debug\netcoreapp2.1\EvenTimes.dll
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\EvenTimes\bin\Debug\netcoreapp2.1\EvenTimes.pdb
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\EvenTimes\obj\Debug\netcoreapp2.1\EvenTimes.csproj.CoreCompileInputs.cache
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\EvenTimes\obj\Debug\netcoreapp2.1\EvenTimes.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\EvenTimes\obj\Debug\netcoreapp2.1\EvenTimes.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\EvenTimes\obj\Debug\netcoreapp2.1\EvenTimes.dll
+D:\SoftUni\VS2019_Repos\SetsAndDictionaries-Exercise\EvenTimes\obj\Debug\netcoreapp2.1\EvenTimes.pdb
