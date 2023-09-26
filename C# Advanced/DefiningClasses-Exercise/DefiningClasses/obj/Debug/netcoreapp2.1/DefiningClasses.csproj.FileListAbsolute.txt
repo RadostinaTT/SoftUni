@@ -1,0 +1,11 @@
+D:\SoftUni\VS2019_Repos\DefiningClasses-Exercise\DefiningClasses\bin\Debug\netcoreapp2.1\DefiningClasses.deps.json
+D:\SoftUni\VS2019_Repos\DefiningClasses-Exercise\DefiningClasses\bin\Debug\netcoreapp2.1\DefiningClasses.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\DefiningClasses-Exercise\DefiningClasses\bin\Debug\netcoreapp2.1\DefiningClasses.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\DefiningClasses-Exercise\DefiningClasses\bin\Debug\netcoreapp2.1\DefiningClasses.dll
+D:\SoftUni\VS2019_Repos\DefiningClasses-Exercise\DefiningClasses\bin\Debug\netcoreapp2.1\DefiningClasses.pdb
+D:\SoftUni\VS2019_Repos\DefiningClasses-Exercise\DefiningClasses\obj\Debug\netcoreapp2.1\DefiningClasses.csprojAssemblyReference.cache
+D:\SoftUni\VS2019_Repos\DefiningClasses-Exercise\DefiningClasses\obj\Debug\netcoreapp2.1\DefiningClasses.csproj.CoreCompileInputs.cache
+D:\SoftUni\VS2019_Repos\DefiningClasses-Exercise\DefiningClasses\obj\Debug\netcoreapp2.1\DefiningClasses.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\DefiningClasses-Exercise\DefiningClasses\obj\Debug\netcoreapp2.1\DefiningClasses.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\DefiningClasses-Exercise\DefiningClasses\obj\Debug\netcoreapp2.1\DefiningClasses.dll
+D:\SoftUni\VS2019_Repos\DefiningClasses-Exercise\DefiningClasses\obj\Debug\netcoreapp2.1\DefiningClasses.pdb

@@ -1,0 +1,10 @@
+D:\SoftUni\VS2019_Repos\DefiningClasses-Exercise\DateModifier\bin\Debug\netcoreapp2.1\DateModifier.deps.json
+D:\SoftUni\VS2019_Repos\DefiningClasses-Exercise\DateModifier\bin\Debug\netcoreapp2.1\DateModifier.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\DefiningClasses-Exercise\DateModifier\bin\Debug\netcoreapp2.1\DateModifier.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\DefiningClasses-Exercise\DateModifier\bin\Debug\netcoreapp2.1\DateModifier.dll
+D:\SoftUni\VS2019_Repos\DefiningClasses-Exercise\DateModifier\bin\Debug\netcoreapp2.1\DateModifier.pdb
+D:\SoftUni\VS2019_Repos\DefiningClasses-Exercise\DateModifier\obj\Debug\netcoreapp2.1\DateModifier.csproj.CoreCompileInputs.cache
+D:\SoftUni\VS2019_Repos\DefiningClasses-Exercise\DateModifier\obj\Debug\netcoreapp2.1\DateModifier.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\DefiningClasses-Exercise\DateModifier\obj\Debug\netcoreapp2.1\DateModifier.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\DefiningClasses-Exercise\DateModifier\obj\Debug\netcoreapp2.1\DateModifier.dll
+D:\SoftUni\VS2019_Repos\DefiningClasses-Exercise\DateModifier\obj\Debug\netcoreapp2.1\DateModifier.pdb
