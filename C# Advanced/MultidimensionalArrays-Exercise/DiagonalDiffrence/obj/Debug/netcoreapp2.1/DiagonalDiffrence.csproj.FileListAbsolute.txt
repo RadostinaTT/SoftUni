@@ -1,0 +1,10 @@
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\DiagonalDiffrence\bin\Debug\netcoreapp2.1\DiagonalDiffrence.deps.json
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\DiagonalDiffrence\bin\Debug\netcoreapp2.1\DiagonalDiffrence.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\DiagonalDiffrence\bin\Debug\netcoreapp2.1\DiagonalDiffrence.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\DiagonalDiffrence\bin\Debug\netcoreapp2.1\DiagonalDiffrence.dll
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\DiagonalDiffrence\bin\Debug\netcoreapp2.1\DiagonalDiffrence.pdb
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\DiagonalDiffrence\obj\Debug\netcoreapp2.1\DiagonalDiffrence.csproj.CoreCompileInputs.cache
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\DiagonalDiffrence\obj\Debug\netcoreapp2.1\DiagonalDiffrence.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\DiagonalDiffrence\obj\Debug\netcoreapp2.1\DiagonalDiffrence.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\DiagonalDiffrence\obj\Debug\netcoreapp2.1\DiagonalDiffrence.dll
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\DiagonalDiffrence\obj\Debug\netcoreapp2.1\DiagonalDiffrence.pdb

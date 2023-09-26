@@ -1,0 +1,10 @@
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\JaggedArrayManipulator\obj\Debug\netcoreapp2.1\JaggedArrayManipulator.csproj.CoreCompileInputs.cache
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\JaggedArrayManipulator\obj\Debug\netcoreapp2.1\JaggedArrayManipulator.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\JaggedArrayManipulator\obj\Debug\netcoreapp2.1\JaggedArrayManipulator.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\JaggedArrayManipulator\bin\Debug\netcoreapp2.1\JaggedArrayManipulator.deps.json
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\JaggedArrayManipulator\bin\Debug\netcoreapp2.1\JaggedArrayManipulator.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\JaggedArrayManipulator\bin\Debug\netcoreapp2.1\JaggedArrayManipulator.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\JaggedArrayManipulator\bin\Debug\netcoreapp2.1\JaggedArrayManipulator.dll
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\JaggedArrayManipulator\bin\Debug\netcoreapp2.1\JaggedArrayManipulator.pdb
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\JaggedArrayManipulator\obj\Debug\netcoreapp2.1\JaggedArrayManipulator.dll
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\JaggedArrayManipulator\obj\Debug\netcoreapp2.1\JaggedArrayManipulator.pdb

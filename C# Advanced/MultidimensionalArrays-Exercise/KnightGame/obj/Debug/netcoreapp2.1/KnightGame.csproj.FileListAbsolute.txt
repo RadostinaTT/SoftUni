@@ -1,0 +1,11 @@
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\KnightGame\bin\Debug\netcoreapp2.1\KnightGame.deps.json
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\KnightGame\bin\Debug\netcoreapp2.1\KnightGame.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\KnightGame\bin\Debug\netcoreapp2.1\KnightGame.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\KnightGame\bin\Debug\netcoreapp2.1\KnightGame.dll
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\KnightGame\bin\Debug\netcoreapp2.1\KnightGame.pdb
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\KnightGame\obj\Debug\netcoreapp2.1\KnightGame.csprojAssemblyReference.cache
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\KnightGame\obj\Debug\netcoreapp2.1\KnightGame.csproj.CoreCompileInputs.cache
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\KnightGame\obj\Debug\netcoreapp2.1\KnightGame.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\KnightGame\obj\Debug\netcoreapp2.1\KnightGame.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\KnightGame\obj\Debug\netcoreapp2.1\KnightGame.dll
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\KnightGame\obj\Debug\netcoreapp2.1\KnightGame.pdb

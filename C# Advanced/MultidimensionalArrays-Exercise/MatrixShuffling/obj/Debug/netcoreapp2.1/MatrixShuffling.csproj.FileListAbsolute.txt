@@ -1,0 +1,11 @@
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\MatrixShuffling\bin\Debug\netcoreapp2.1\MatrixShuffling.deps.json
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\MatrixShuffling\bin\Debug\netcoreapp2.1\MatrixShuffling.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\MatrixShuffling\bin\Debug\netcoreapp2.1\MatrixShuffling.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\MatrixShuffling\bin\Debug\netcoreapp2.1\MatrixShuffling.dll
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\MatrixShuffling\bin\Debug\netcoreapp2.1\MatrixShuffling.pdb
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\MatrixShuffling\obj\Debug\netcoreapp2.1\MatrixShuffling.csprojAssemblyReference.cache
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\MatrixShuffling\obj\Debug\netcoreapp2.1\MatrixShuffling.csproj.CoreCompileInputs.cache
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\MatrixShuffling\obj\Debug\netcoreapp2.1\MatrixShuffling.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\MatrixShuffling\obj\Debug\netcoreapp2.1\MatrixShuffling.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\MatrixShuffling\obj\Debug\netcoreapp2.1\MatrixShuffling.dll
+D:\SoftUni\VS2019_Repos\MultidimensionalArrays-Exercise\MatrixShuffling\obj\Debug\netcoreapp2.1\MatrixShuffling.pdb
