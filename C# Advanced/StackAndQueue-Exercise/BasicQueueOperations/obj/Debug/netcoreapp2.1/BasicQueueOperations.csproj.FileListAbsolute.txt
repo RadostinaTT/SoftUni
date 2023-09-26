@@ -1,0 +1,10 @@
+C:\Users\PC008\source\repos\StackAndQueue-Exercise\BasicQueueOperations\bin\Debug\netcoreapp2.1\BasicQueueOperations.deps.json
+C:\Users\PC008\source\repos\StackAndQueue-Exercise\BasicQueueOperations\bin\Debug\netcoreapp2.1\BasicQueueOperations.runtimeconfig.json
+C:\Users\PC008\source\repos\StackAndQueue-Exercise\BasicQueueOperations\bin\Debug\netcoreapp2.1\BasicQueueOperations.runtimeconfig.dev.json
+C:\Users\PC008\source\repos\StackAndQueue-Exercise\BasicQueueOperations\bin\Debug\netcoreapp2.1\BasicQueueOperations.dll
+C:\Users\PC008\source\repos\StackAndQueue-Exercise\BasicQueueOperations\bin\Debug\netcoreapp2.1\BasicQueueOperations.pdb
+C:\Users\PC008\source\repos\StackAndQueue-Exercise\BasicQueueOperations\obj\Debug\netcoreapp2.1\BasicQueueOperations.csproj.CoreCompileInputs.cache
+C:\Users\PC008\source\repos\StackAndQueue-Exercise\BasicQueueOperations\obj\Debug\netcoreapp2.1\BasicQueueOperations.AssemblyInfoInputs.cache
+C:\Users\PC008\source\repos\StackAndQueue-Exercise\BasicQueueOperations\obj\Debug\netcoreapp2.1\BasicQueueOperations.AssemblyInfo.cs
+C:\Users\PC008\source\repos\StackAndQueue-Exercise\BasicQueueOperations\obj\Debug\netcoreapp2.1\BasicQueueOperations.dll
+C:\Users\PC008\source\repos\StackAndQueue-Exercise\BasicQueueOperations\obj\Debug\netcoreapp2.1\BasicQueueOperations.pdb

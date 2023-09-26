@@ -1,0 +1,11 @@
+D:\SoftUni\VS2019_Repos\StackAndQueue-Exercise\Crossroad\bin\Debug\netcoreapp2.1\Crossroad.deps.json
+D:\SoftUni\VS2019_Repos\StackAndQueue-Exercise\Crossroad\bin\Debug\netcoreapp2.1\Crossroad.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\StackAndQueue-Exercise\Crossroad\bin\Debug\netcoreapp2.1\Crossroad.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\StackAndQueue-Exercise\Crossroad\bin\Debug\netcoreapp2.1\Crossroad.dll
+D:\SoftUni\VS2019_Repos\StackAndQueue-Exercise\Crossroad\bin\Debug\netcoreapp2.1\Crossroad.pdb
+D:\SoftUni\VS2019_Repos\StackAndQueue-Exercise\Crossroad\obj\Debug\netcoreapp2.1\Crossroad.csprojAssemblyReference.cache
+D:\SoftUni\VS2019_Repos\StackAndQueue-Exercise\Crossroad\obj\Debug\netcoreapp2.1\Crossroad.csproj.CoreCompileInputs.cache
+D:\SoftUni\VS2019_Repos\StackAndQueue-Exercise\Crossroad\obj\Debug\netcoreapp2.1\Crossroad.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\StackAndQueue-Exercise\Crossroad\obj\Debug\netcoreapp2.1\Crossroad.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\StackAndQueue-Exercise\Crossroad\obj\Debug\netcoreapp2.1\Crossroad.dll
+D:\SoftUni\VS2019_Repos\StackAndQueue-Exercise\Crossroad\obj\Debug\netcoreapp2.1\Crossroad.pdb

@@ -1,0 +1,10 @@
+C:\Users\PC008\source\repos\StackAndQueue-Exercise\BalancedParentheses\bin\Debug\netcoreapp2.1\BalancedParentheses.deps.json
+C:\Users\PC008\source\repos\StackAndQueue-Exercise\BalancedParentheses\bin\Debug\netcoreapp2.1\BalancedParentheses.runtimeconfig.json
+C:\Users\PC008\source\repos\StackAndQueue-Exercise\BalancedParentheses\bin\Debug\netcoreapp2.1\BalancedParentheses.runtimeconfig.dev.json
+C:\Users\PC008\source\repos\StackAndQueue-Exercise\BalancedParentheses\bin\Debug\netcoreapp2.1\BalancedParentheses.dll
+C:\Users\PC008\source\repos\StackAndQueue-Exercise\BalancedParentheses\bin\Debug\netcoreapp2.1\BalancedParentheses.pdb
+C:\Users\PC008\source\repos\StackAndQueue-Exercise\BalancedParentheses\obj\Debug\netcoreapp2.1\BalancedParentheses.csproj.CoreCompileInputs.cache
+C:\Users\PC008\source\repos\StackAndQueue-Exercise\BalancedParentheses\obj\Debug\netcoreapp2.1\BalancedParentheses.AssemblyInfoInputs.cache
+C:\Users\PC008\source\repos\StackAndQueue-Exercise\BalancedParentheses\obj\Debug\netcoreapp2.1\BalancedParentheses.AssemblyInfo.cs
+C:\Users\PC008\source\repos\StackAndQueue-Exercise\BalancedParentheses\obj\Debug\netcoreapp2.1\BalancedParentheses.dll
+C:\Users\PC008\source\repos\StackAndQueue-Exercise\BalancedParentheses\obj\Debug\netcoreapp2.1\BalancedParentheses.pdb
