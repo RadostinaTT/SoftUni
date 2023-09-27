@@ -1,0 +1,13 @@
+C:\DISK D\SOFTUNI\DB\EntityFramework\VSrepos\EntityFrameworkRelations\P03_FootballBetting.Data\bin\Debug\netcoreapp3.1\P03_FootballBetting.Data.deps.json
+C:\DISK D\SOFTUNI\DB\EntityFramework\VSrepos\EntityFrameworkRelations\P03_FootballBetting.Data\bin\Debug\netcoreapp3.1\P03_FootballBetting.Data.runtimeconfig.json
+C:\DISK D\SOFTUNI\DB\EntityFramework\VSrepos\EntityFrameworkRelations\P03_FootballBetting.Data\bin\Debug\netcoreapp3.1\P03_FootballBetting.Data.runtimeconfig.dev.json
+C:\DISK D\SOFTUNI\DB\EntityFramework\VSrepos\EntityFrameworkRelations\P03_FootballBetting.Data\bin\Debug\netcoreapp3.1\P03_FootballBetting.Data.dll
+C:\DISK D\SOFTUNI\DB\EntityFramework\VSrepos\EntityFrameworkRelations\P03_FootballBetting.Data\bin\Debug\netcoreapp3.1\P03_FootballBetting.Data.pdb
+C:\DISK D\SOFTUNI\DB\EntityFramework\VSrepos\EntityFrameworkRelations\P03_FootballBetting.Data\bin\Debug\netcoreapp3.1\P03_FootballBetting.Data.Models.dll
+C:\DISK D\SOFTUNI\DB\EntityFramework\VSrepos\EntityFrameworkRelations\P03_FootballBetting.Data\bin\Debug\netcoreapp3.1\P03_FootballBetting.Data.Models.pdb
+C:\DISK D\SOFTUNI\DB\EntityFramework\VSrepos\EntityFrameworkRelations\P03_FootballBetting.Data\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.csprojAssemblyReference.cache
+C:\DISK D\SOFTUNI\DB\EntityFramework\VSrepos\EntityFrameworkRelations\P03_FootballBetting.Data\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.AssemblyInfoInputs.cache
+C:\DISK D\SOFTUNI\DB\EntityFramework\VSrepos\EntityFrameworkRelations\P03_FootballBetting.Data\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.AssemblyInfo.cs
+C:\DISK D\SOFTUNI\DB\EntityFramework\VSrepos\EntityFrameworkRelations\P03_FootballBetting.Data\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.csproj.CopyComplete
+C:\DISK D\SOFTUNI\DB\EntityFramework\VSrepos\EntityFrameworkRelations\P03_FootballBetting.Data\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.dll
+C:\DISK D\SOFTUNI\DB\EntityFramework\VSrepos\EntityFrameworkRelations\P03_FootballBetting.Data\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.pdb

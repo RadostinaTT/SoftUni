@@ -1,0 +1,8 @@
+C:\DISK D\SOFTUNI\DB\EntityFramework\VSrepos\EntityFrameworkRelations\P03_FootballBetting.Data.Models\bin\Debug\netcoreapp3.1\P03_FootballBetting.Data.Models.deps.json
+C:\DISK D\SOFTUNI\DB\EntityFramework\VSrepos\EntityFrameworkRelations\P03_FootballBetting.Data.Models\bin\Debug\netcoreapp3.1\P03_FootballBetting.Data.Models.dll
+C:\DISK D\SOFTUNI\DB\EntityFramework\VSrepos\EntityFrameworkRelations\P03_FootballBetting.Data.Models\bin\Debug\netcoreapp3.1\P03_FootballBetting.Data.Models.pdb
+C:\DISK D\SOFTUNI\DB\EntityFramework\VSrepos\EntityFrameworkRelations\P03_FootballBetting.Data.Models\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.Models.csprojAssemblyReference.cache
+C:\DISK D\SOFTUNI\DB\EntityFramework\VSrepos\EntityFrameworkRelations\P03_FootballBetting.Data.Models\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.Models.AssemblyInfoInputs.cache
+C:\DISK D\SOFTUNI\DB\EntityFramework\VSrepos\EntityFrameworkRelations\P03_FootballBetting.Data.Models\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.Models.AssemblyInfo.cs
+C:\DISK D\SOFTUNI\DB\EntityFramework\VSrepos\EntityFrameworkRelations\P03_FootballBetting.Data.Models\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.Models.dll
+C:\DISK D\SOFTUNI\DB\EntityFramework\VSrepos\EntityFrameworkRelations\P03_FootballBetting.Data.Models\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.Models.pdb
