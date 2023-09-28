@@ -1,0 +1,11 @@
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\Ferrari\bin\Debug\netcoreapp3.0\Ferrari.exe
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\Ferrari\bin\Debug\netcoreapp3.0\Ferrari.deps.json
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\Ferrari\bin\Debug\netcoreapp3.0\Ferrari.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\Ferrari\bin\Debug\netcoreapp3.0\Ferrari.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\Ferrari\bin\Debug\netcoreapp3.0\Ferrari.dll
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\Ferrari\bin\Debug\netcoreapp3.0\Ferrari.pdb
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\Ferrari\obj\Debug\netcoreapp3.0\Ferrari.csprojAssemblyReference.cache
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\Ferrari\obj\Debug\netcoreapp3.0\Ferrari.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\Ferrari\obj\Debug\netcoreapp3.0\Ferrari.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\Ferrari\obj\Debug\netcoreapp3.0\Ferrari.dll
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\Ferrari\obj\Debug\netcoreapp3.0\Ferrari.pdb

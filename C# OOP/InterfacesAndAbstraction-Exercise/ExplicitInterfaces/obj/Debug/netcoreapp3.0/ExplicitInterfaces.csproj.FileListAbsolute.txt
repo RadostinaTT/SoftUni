@@ -1,0 +1,11 @@
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\ExplicitInterfaces\bin\Debug\netcoreapp3.0\ExplicitInterfaces.exe
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\ExplicitInterfaces\bin\Debug\netcoreapp3.0\ExplicitInterfaces.deps.json
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\ExplicitInterfaces\bin\Debug\netcoreapp3.0\ExplicitInterfaces.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\ExplicitInterfaces\bin\Debug\netcoreapp3.0\ExplicitInterfaces.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\ExplicitInterfaces\bin\Debug\netcoreapp3.0\ExplicitInterfaces.dll
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\ExplicitInterfaces\bin\Debug\netcoreapp3.0\ExplicitInterfaces.pdb
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\ExplicitInterfaces\obj\Debug\netcoreapp3.0\ExplicitInterfaces.csprojAssemblyReference.cache
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\ExplicitInterfaces\obj\Debug\netcoreapp3.0\ExplicitInterfaces.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\ExplicitInterfaces\obj\Debug\netcoreapp3.0\ExplicitInterfaces.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\ExplicitInterfaces\obj\Debug\netcoreapp3.0\ExplicitInterfaces.dll
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\ExplicitInterfaces\obj\Debug\netcoreapp3.0\ExplicitInterfaces.pdb
