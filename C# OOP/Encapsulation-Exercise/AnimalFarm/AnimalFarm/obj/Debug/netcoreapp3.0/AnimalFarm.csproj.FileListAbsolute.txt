@@ -1,0 +1,11 @@
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.0\AnimalFarm.exe
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.0\AnimalFarm.deps.json
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.0\AnimalFarm.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.0\AnimalFarm.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.0\AnimalFarm.dll
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.0\AnimalFarm.pdb
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.0\AnimalFarm.csprojAssemblyReference.cache
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.0\AnimalFarm.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.0\AnimalFarm.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.0\AnimalFarm.dll
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.0\AnimalFarm.pdb
