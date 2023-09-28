@@ -1,0 +1,10 @@
+D:\SoftUni\VS2019_Repos\Inheritance-Exercise\Zoo\bin\Debug\netcoreapp3.0\Zoo.exe
+D:\SoftUni\VS2019_Repos\Inheritance-Exercise\Zoo\bin\Debug\netcoreapp3.0\Zoo.deps.json
+D:\SoftUni\VS2019_Repos\Inheritance-Exercise\Zoo\bin\Debug\netcoreapp3.0\Zoo.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\Inheritance-Exercise\Zoo\bin\Debug\netcoreapp3.0\Zoo.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\Inheritance-Exercise\Zoo\bin\Debug\netcoreapp3.0\Zoo.dll
+D:\SoftUni\VS2019_Repos\Inheritance-Exercise\Zoo\bin\Debug\netcoreapp3.0\Zoo.pdb
+D:\SoftUni\VS2019_Repos\Inheritance-Exercise\Zoo\obj\Debug\netcoreapp3.0\Zoo.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\Inheritance-Exercise\Zoo\obj\Debug\netcoreapp3.0\Zoo.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\Inheritance-Exercise\Zoo\obj\Debug\netcoreapp3.0\Zoo.dll
+D:\SoftUni\VS2019_Repos\Inheritance-Exercise\Zoo\obj\Debug\netcoreapp3.0\Zoo.pdb
