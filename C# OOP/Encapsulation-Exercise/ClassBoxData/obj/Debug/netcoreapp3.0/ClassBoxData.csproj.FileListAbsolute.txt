@@ -1,0 +1,11 @@
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\ClassBoxData\obj\Debug\netcoreapp3.0\ClassBoxData.csprojAssemblyReference.cache
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\ClassBoxData\obj\Debug\netcoreapp3.0\ClassBoxData.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\ClassBoxData\obj\Debug\netcoreapp3.0\ClassBoxData.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\ClassBoxData\bin\Debug\netcoreapp3.0\ClassBoxData.exe
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\ClassBoxData\bin\Debug\netcoreapp3.0\ClassBoxData.deps.json
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\ClassBoxData\bin\Debug\netcoreapp3.0\ClassBoxData.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\ClassBoxData\bin\Debug\netcoreapp3.0\ClassBoxData.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\ClassBoxData\bin\Debug\netcoreapp3.0\ClassBoxData.dll
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\ClassBoxData\bin\Debug\netcoreapp3.0\ClassBoxData.pdb
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\ClassBoxData\obj\Debug\netcoreapp3.0\ClassBoxData.dll
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\ClassBoxData\obj\Debug\netcoreapp3.0\ClassBoxData.pdb
