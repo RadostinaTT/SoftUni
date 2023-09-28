@@ -1,0 +1,11 @@
+D:\SoftUni\VS2019_Repos\Inheritance-Exercise\NeedForSpeed\bin\Debug\netcoreapp3.0\NeedForSpeed.exe
+D:\SoftUni\VS2019_Repos\Inheritance-Exercise\NeedForSpeed\bin\Debug\netcoreapp3.0\NeedForSpeed.deps.json
+D:\SoftUni\VS2019_Repos\Inheritance-Exercise\NeedForSpeed\bin\Debug\netcoreapp3.0\NeedForSpeed.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\Inheritance-Exercise\NeedForSpeed\bin\Debug\netcoreapp3.0\NeedForSpeed.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\Inheritance-Exercise\NeedForSpeed\bin\Debug\netcoreapp3.0\NeedForSpeed.dll
+D:\SoftUni\VS2019_Repos\Inheritance-Exercise\NeedForSpeed\bin\Debug\netcoreapp3.0\NeedForSpeed.pdb
+D:\SoftUni\VS2019_Repos\Inheritance-Exercise\NeedForSpeed\obj\Debug\netcoreapp3.0\NeedForSpeed.csprojAssemblyReference.cache
+D:\SoftUni\VS2019_Repos\Inheritance-Exercise\NeedForSpeed\obj\Debug\netcoreapp3.0\NeedForSpeed.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\Inheritance-Exercise\NeedForSpeed\obj\Debug\netcoreapp3.0\NeedForSpeed.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\Inheritance-Exercise\NeedForSpeed\obj\Debug\netcoreapp3.0\NeedForSpeed.dll
+D:\SoftUni\VS2019_Repos\Inheritance-Exercise\NeedForSpeed\obj\Debug\netcoreapp3.0\NeedForSpeed.pdb

@@ -1,0 +1,10 @@
+D:\SoftUni\VS2019_Repos\Inheritance-Exercise\Person\obj\Debug\netcoreapp2.1\Person.csprojAssemblyReference.cache
+D:\SoftUni\VS2019_Repos\Inheritance-Exercise\Person\obj\Debug\netcoreapp2.1\Person.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\Inheritance-Exercise\Person\obj\Debug\netcoreapp2.1\Person.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\Inheritance-Exercise\Person\bin\Debug\netcoreapp2.1\Person.deps.json
+D:\SoftUni\VS2019_Repos\Inheritance-Exercise\Person\bin\Debug\netcoreapp2.1\Person.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\Inheritance-Exercise\Person\bin\Debug\netcoreapp2.1\Person.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\Inheritance-Exercise\Person\bin\Debug\netcoreapp2.1\Person.dll
+D:\SoftUni\VS2019_Repos\Inheritance-Exercise\Person\bin\Debug\netcoreapp2.1\Person.pdb
+D:\SoftUni\VS2019_Repos\Inheritance-Exercise\Person\obj\Debug\netcoreapp2.1\Person.dll
+D:\SoftUni\VS2019_Repos\Inheritance-Exercise\Person\obj\Debug\netcoreapp2.1\Person.pdb
