@@ -1,0 +1,11 @@
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\ShopingSpree\obj\Debug\netcoreapp3.0\ShopingSpree.csprojAssemblyReference.cache
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\ShopingSpree\obj\Debug\netcoreapp3.0\ShopingSpree.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\ShopingSpree\obj\Debug\netcoreapp3.0\ShopingSpree.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\ShopingSpree\bin\Debug\netcoreapp3.0\ShopingSpree.exe
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\ShopingSpree\bin\Debug\netcoreapp3.0\ShopingSpree.deps.json
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\ShopingSpree\bin\Debug\netcoreapp3.0\ShopingSpree.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\ShopingSpree\bin\Debug\netcoreapp3.0\ShopingSpree.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\ShopingSpree\bin\Debug\netcoreapp3.0\ShopingSpree.dll
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\ShopingSpree\bin\Debug\netcoreapp3.0\ShopingSpree.pdb
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\ShopingSpree\obj\Debug\netcoreapp3.0\ShopingSpree.dll
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\ShopingSpree\obj\Debug\netcoreapp3.0\ShopingSpree.pdb

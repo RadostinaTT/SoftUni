@@ -1,0 +1,11 @@
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\PizzaCalories\bin\Debug\netcoreapp3.0\PizzaCalories.exe
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\PizzaCalories\bin\Debug\netcoreapp3.0\PizzaCalories.deps.json
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\PizzaCalories\bin\Debug\netcoreapp3.0\PizzaCalories.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\PizzaCalories\bin\Debug\netcoreapp3.0\PizzaCalories.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\PizzaCalories\bin\Debug\netcoreapp3.0\PizzaCalories.dll
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\PizzaCalories\bin\Debug\netcoreapp3.0\PizzaCalories.pdb
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\PizzaCalories\obj\Debug\netcoreapp3.0\PizzaCalories.csprojAssemblyReference.cache
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\PizzaCalories\obj\Debug\netcoreapp3.0\PizzaCalories.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\PizzaCalories\obj\Debug\netcoreapp3.0\PizzaCalories.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\PizzaCalories\obj\Debug\netcoreapp3.0\PizzaCalories.dll
+D:\SoftUni\VS2019_Repos\Encapsulation-Exercise\PizzaCalories\obj\Debug\netcoreapp3.0\PizzaCalories.pdb
