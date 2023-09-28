@@ -1,0 +1,11 @@
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\Telephony\bin\Debug\netcoreapp3.0\Telephony.exe
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\Telephony\bin\Debug\netcoreapp3.0\Telephony.deps.json
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\Telephony\bin\Debug\netcoreapp3.0\Telephony.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\Telephony\bin\Debug\netcoreapp3.0\Telephony.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\Telephony\bin\Debug\netcoreapp3.0\Telephony.dll
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\Telephony\bin\Debug\netcoreapp3.0\Telephony.pdb
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\Telephony\obj\Debug\netcoreapp3.0\Telephony.csprojAssemblyReference.cache
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\Telephony\obj\Debug\netcoreapp3.0\Telephony.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\Telephony\obj\Debug\netcoreapp3.0\Telephony.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\Telephony\obj\Debug\netcoreapp3.0\Telephony.dll
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\Telephony\obj\Debug\netcoreapp3.0\Telephony.pdb

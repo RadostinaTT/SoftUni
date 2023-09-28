@@ -1,0 +1,11 @@
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\MilitaryElite\bin\Debug\netcoreapp3.0\MilitaryElite.exe
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\MilitaryElite\bin\Debug\netcoreapp3.0\MilitaryElite.deps.json
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\MilitaryElite\bin\Debug\netcoreapp3.0\MilitaryElite.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\MilitaryElite\bin\Debug\netcoreapp3.0\MilitaryElite.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\MilitaryElite\bin\Debug\netcoreapp3.0\MilitaryElite.dll
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\MilitaryElite\bin\Debug\netcoreapp3.0\MilitaryElite.pdb
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\MilitaryElite\obj\Debug\netcoreapp3.0\MilitaryElite.csprojAssemblyReference.cache
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\MilitaryElite\obj\Debug\netcoreapp3.0\MilitaryElite.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\MilitaryElite\obj\Debug\netcoreapp3.0\MilitaryElite.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\MilitaryElite\obj\Debug\netcoreapp3.0\MilitaryElite.dll
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\MilitaryElite\obj\Debug\netcoreapp3.0\MilitaryElite.pdb

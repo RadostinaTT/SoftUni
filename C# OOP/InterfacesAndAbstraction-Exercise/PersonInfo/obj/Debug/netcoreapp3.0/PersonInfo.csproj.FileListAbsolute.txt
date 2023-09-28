@@ -1,0 +1,10 @@
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\PersonInfo\bin\Debug\netcoreapp3.0\PersonInfo.exe
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\PersonInfo\bin\Debug\netcoreapp3.0\PersonInfo.deps.json
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\PersonInfo\bin\Debug\netcoreapp3.0\PersonInfo.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\PersonInfo\bin\Debug\netcoreapp3.0\PersonInfo.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\PersonInfo\bin\Debug\netcoreapp3.0\PersonInfo.dll
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\PersonInfo\bin\Debug\netcoreapp3.0\PersonInfo.pdb
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\PersonInfo\obj\Debug\netcoreapp3.0\PersonInfo.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\PersonInfo\obj\Debug\netcoreapp3.0\PersonInfo.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\PersonInfo\obj\Debug\netcoreapp3.0\PersonInfo.dll
+D:\SoftUni\VS2019_Repos\InterfacesAndAbstraction-Exercise\PersonInfo\obj\Debug\netcoreapp3.0\PersonInfo.pdb
