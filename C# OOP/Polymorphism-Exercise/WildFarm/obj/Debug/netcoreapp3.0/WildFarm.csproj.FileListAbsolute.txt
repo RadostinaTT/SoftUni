@@ -1,0 +1,11 @@
+D:\SoftUni\VS2019_Repos\Polymorphism-Exercise\WildFarm\bin\Debug\netcoreapp3.0\WildFarm.exe
+D:\SoftUni\VS2019_Repos\Polymorphism-Exercise\WildFarm\bin\Debug\netcoreapp3.0\WildFarm.deps.json
+D:\SoftUni\VS2019_Repos\Polymorphism-Exercise\WildFarm\bin\Debug\netcoreapp3.0\WildFarm.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\Polymorphism-Exercise\WildFarm\bin\Debug\netcoreapp3.0\WildFarm.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\Polymorphism-Exercise\WildFarm\bin\Debug\netcoreapp3.0\WildFarm.dll
+D:\SoftUni\VS2019_Repos\Polymorphism-Exercise\WildFarm\bin\Debug\netcoreapp3.0\WildFarm.pdb
+D:\SoftUni\VS2019_Repos\Polymorphism-Exercise\WildFarm\obj\Debug\netcoreapp3.0\WildFarm.csprojAssemblyReference.cache
+D:\SoftUni\VS2019_Repos\Polymorphism-Exercise\WildFarm\obj\Debug\netcoreapp3.0\WildFarm.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\Polymorphism-Exercise\WildFarm\obj\Debug\netcoreapp3.0\WildFarm.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\Polymorphism-Exercise\WildFarm\obj\Debug\netcoreapp3.0\WildFarm.dll
+D:\SoftUni\VS2019_Repos\Polymorphism-Exercise\WildFarm\obj\Debug\netcoreapp3.0\WildFarm.pdb
