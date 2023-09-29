@@ -1,0 +1,8 @@
+D:\SoftUni\VS2019_Repos\Unit-Testing-Exercise-Skeleton\FightingArena\bin\Debug\netcoreapp2.1\FightingArena.deps.json
+D:\SoftUni\VS2019_Repos\Unit-Testing-Exercise-Skeleton\FightingArena\bin\Debug\netcoreapp2.1\FightingArena.dll
+D:\SoftUni\VS2019_Repos\Unit-Testing-Exercise-Skeleton\FightingArena\bin\Debug\netcoreapp2.1\FightingArena.pdb
+D:\SoftUni\VS2019_Repos\Unit-Testing-Exercise-Skeleton\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.csprojAssemblyReference.cache
+D:\SoftUni\VS2019_Repos\Unit-Testing-Exercise-Skeleton\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\Unit-Testing-Exercise-Skeleton\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\Unit-Testing-Exercise-Skeleton\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.dll
+D:\SoftUni\VS2019_Repos\Unit-Testing-Exercise-Skeleton\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.pdb

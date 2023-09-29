@@ -1,0 +1,8 @@
+D:\SoftUni\VS2019_Repos\Unit-Testing-Exercise-Skeleton\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.deps.json
+D:\SoftUni\VS2019_Repos\Unit-Testing-Exercise-Skeleton\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.dll
+D:\SoftUni\VS2019_Repos\Unit-Testing-Exercise-Skeleton\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.pdb
+D:\SoftUni\VS2019_Repos\Unit-Testing-Exercise-Skeleton\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\Unit-Testing-Exercise-Skeleton\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\Unit-Testing-Exercise-Skeleton\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.dll
+D:\SoftUni\VS2019_Repos\Unit-Testing-Exercise-Skeleton\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.pdb
+D:\SoftUni\VS2019_Repos\Unit-Testing-Exercise-Skeleton\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.csprojAssemblyReference.cache
