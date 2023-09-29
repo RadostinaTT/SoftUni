@@ -1,0 +1,10 @@
+D:\SoftUni\VS2019_Repos\Reflection-and-Attributes-Skeleton\ValidationAttributes\bin\Debug\netcoreapp2.1\ValidationAttributes.deps.json
+D:\SoftUni\VS2019_Repos\Reflection-and-Attributes-Skeleton\ValidationAttributes\bin\Debug\netcoreapp2.1\ValidationAttributes.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\Reflection-and-Attributes-Skeleton\ValidationAttributes\bin\Debug\netcoreapp2.1\ValidationAttributes.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\Reflection-and-Attributes-Skeleton\ValidationAttributes\bin\Debug\netcoreapp2.1\ValidationAttributes.dll
+D:\SoftUni\VS2019_Repos\Reflection-and-Attributes-Skeleton\ValidationAttributes\bin\Debug\netcoreapp2.1\ValidationAttributes.pdb
+D:\SoftUni\VS2019_Repos\Reflection-and-Attributes-Skeleton\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.csprojAssemblyReference.cache
+D:\SoftUni\VS2019_Repos\Reflection-and-Attributes-Skeleton\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\Reflection-and-Attributes-Skeleton\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\Reflection-and-Attributes-Skeleton\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.dll
+D:\SoftUni\VS2019_Repos\Reflection-and-Attributes-Skeleton\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.pdb
