@@ -1,0 +1,11 @@
+D:\SoftUni\VS2019_Repos\WorkingWithAbstraction-Exercise\Hospital\obj\Debug\netcoreapp3.0\Hospital.csprojAssemblyReference.cache
+D:\SoftUni\VS2019_Repos\WorkingWithAbstraction-Exercise\Hospital\obj\Debug\netcoreapp3.0\Hospital.AssemblyInfoInputs.cache
+D:\SoftUni\VS2019_Repos\WorkingWithAbstraction-Exercise\Hospital\obj\Debug\netcoreapp3.0\Hospital.AssemblyInfo.cs
+D:\SoftUni\VS2019_Repos\WorkingWithAbstraction-Exercise\Hospital\bin\Debug\netcoreapp3.0\Hospital.exe
+D:\SoftUni\VS2019_Repos\WorkingWithAbstraction-Exercise\Hospital\bin\Debug\netcoreapp3.0\Hospital.deps.json
+D:\SoftUni\VS2019_Repos\WorkingWithAbstraction-Exercise\Hospital\bin\Debug\netcoreapp3.0\Hospital.runtimeconfig.json
+D:\SoftUni\VS2019_Repos\WorkingWithAbstraction-Exercise\Hospital\bin\Debug\netcoreapp3.0\Hospital.runtimeconfig.dev.json
+D:\SoftUni\VS2019_Repos\WorkingWithAbstraction-Exercise\Hospital\bin\Debug\netcoreapp3.0\Hospital.dll
+D:\SoftUni\VS2019_Repos\WorkingWithAbstraction-Exercise\Hospital\bin\Debug\netcoreapp3.0\Hospital.pdb
+D:\SoftUni\VS2019_Repos\WorkingWithAbstraction-Exercise\Hospital\obj\Debug\netcoreapp3.0\Hospital.dll
+D:\SoftUni\VS2019_Repos\WorkingWithAbstraction-Exercise\Hospital\obj\Debug\netcoreapp3.0\Hospital.pdb
